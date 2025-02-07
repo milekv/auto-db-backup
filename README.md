@@ -1,6 +1,8 @@
 # Auto DB Backup
 
- automatyzacja backupów bazy danych. Skrypt tworzy kopie zapasowe bazy danych, weryfikuje ich poprawność i zarządza harmonogramem backupów ;0
+automatyzacja backupów bazy danych. 
+Skrypt tworzy kopie zapasowe bazy danych, weryfikuje ich poprawność i zarządza harmonogramem backupów ;0
+#future (dodanie możliwości wyboru backup'u)
 
 ## Wymagania
 
@@ -10,7 +12,7 @@
 
 ## Instalacja
 
-1. Sklonuj repozytorium:
+1. Kopia repozytorium:
    ```bash
    git clone https://github.com/milekv/auto-db-backup.git
    cd auto-db-backup
