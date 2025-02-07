@@ -3,7 +3,7 @@
 automatyzacja backupów bazy danych. 
 Skrypt tworzy kopie zapasowe bazy danych, weryfikuje ich poprawność i zarządza harmonogramem backupów ;0
 
-### future (dodanie możliwości wyboru backup'u)
+### 🔜 (dodanie możliwości wyboru backup'u)
 
 ## Wymagania
 
